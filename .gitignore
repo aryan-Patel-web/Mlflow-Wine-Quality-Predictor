@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+myenv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MLflow artifacts and logs
+mlruns/
+mlartifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env.*
